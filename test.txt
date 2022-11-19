@@ -1,2 +1,4 @@
 Hi, I'm Ashadul Islam. Now I learn git and github. 
 I'm student of computer science Engineering.
+Now I live in Dhaka city.
+Dhaka is capital in the Bangladesh
